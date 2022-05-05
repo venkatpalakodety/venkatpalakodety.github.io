@@ -7,7 +7,7 @@
     position: relative;
     z-index: 2;
     overflow: hidden;
-    padding: 5rem 2.5rem 2.5rem 2.5rem;
+    padding: 2.5rem 2.5rem 2.5rem 2.5rem;
 }
 
 .main {
@@ -33,7 +33,7 @@
     border-radius: inherit;
     padding: 5rem 3rem;
     max-width: 100%;
-    min-width: 13rem;
+    min-width: 10rem;
     width: 30rem;
 }
 
