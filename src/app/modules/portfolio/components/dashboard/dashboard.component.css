@@ -33,7 +33,8 @@
     border-radius: inherit;
     padding: 5rem 3rem;
     max-width: 100%;
-    width: 25rem;
+    min-width: 13rem;
+    width: 30rem;
 }
 
 .card > * {
@@ -94,7 +95,7 @@
 }
 .frame {
     width: 100vw;
-    height: 20rem;
+    height: 30rem;
 }
 
 .cardBottom {
